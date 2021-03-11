@@ -1,0 +1,5 @@
+
+ void wait(int x)
+  {
+    wait_us(x * 1000);
+  }
